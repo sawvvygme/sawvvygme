@@ -8,7 +8,7 @@ I'm a Full-stack Roblox Luau Engineer that has worked on a number of front-page 
 
 [Explore my Roblox portfolio →](https://github.com/sawvvygme/roblox-portfolio)
 
-Project case studies and selected code samples are being prepared.
+Game credits across 38 Roblox experiences, with my programming contributions and team experience. Much of my work has focused on maintaining games and programming content updates.
 
 ## Skills
 
